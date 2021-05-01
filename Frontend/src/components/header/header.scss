@@ -1,0 +1,12 @@
+.header{
+padding: 10px 20px 0px 20px;
+display: flex;
+height: 60px;
+flex-direction: row;
+justify-content: space-between;
+&__logo{
+    object-fit: contain;
+    height: 70%;
+    padding-top: 5px;
+}
+}
